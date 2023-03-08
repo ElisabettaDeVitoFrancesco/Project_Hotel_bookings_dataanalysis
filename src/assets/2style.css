@@ -1,0 +1,22 @@
+/* input box */
+.Select-control {
+    background-color: #01386a;
+}
+
+
+/* changes the text color of input box */
+.Select-value-label {
+    color: snow !important;
+}
+
+.Select--single > .Select-control .Select-value, .Select-placeholder {
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+
+/* dropdown menu options */
+.VirtualizedSelectOption {
+    background-color: #01386a;
+    color: snow;
+ }
