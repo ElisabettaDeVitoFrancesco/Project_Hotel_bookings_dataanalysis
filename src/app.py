@@ -17,6 +17,7 @@ import seaborn as sns
 mpl.style.use('ggplot')
 
 import sort_dataframeby_monthorweek as sd
+from sorted_months_weekdays import Month_Sorted_Month,Weekday_Sorted_Week
 
 # Create a dash application
 app = jupyter_dash.JupyterDash(__name__)
